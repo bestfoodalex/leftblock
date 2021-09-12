@@ -46,3 +46,13 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/* add back */
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
